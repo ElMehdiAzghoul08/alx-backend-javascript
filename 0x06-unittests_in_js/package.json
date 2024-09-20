@@ -1,0 +1,21 @@
+{
+  "name": "unittests-in-js",
+  "version": "1.0.0",
+  "description": "Unit tests in JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "sinon": "^10.0.0",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
